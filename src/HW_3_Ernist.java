@@ -7,7 +7,7 @@
 
 public class HW_3_Ernist {
     public static void main(String[] args) {
-        double[] array = {8, 2, -4, 2, -3, 6, 7, 0, -3, 5, 2, 3, 1, 3, 4};
+        double[] array = {8, 2, -4.9, 2.4, -3, 6.2, 7.6, 0, -3, 5, 2, 3, 1.5, 3, 4};
         boolean flag = false;
         double sum = 0;
         double count = 0;
